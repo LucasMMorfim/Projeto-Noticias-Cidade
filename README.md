@@ -31,7 +31,7 @@ https://lucasmmorfim.github.io/Projeto-Noticias-Cidade/
 
 -Para executar na sua maquina aconselho usar o VS Code e o Live Server
 
-#Clone o repositório digitando:
+#Baixe o repositório ou clone digitando:
 git clone https://github.com/LucasMMorfim/Projeto-Noticias-Cidade.git
 
 #Entre na pasta do projeto e execute o Index.html com o Live Server
